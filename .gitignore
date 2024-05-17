@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+*.png
+**/DeviceInfo.json
+**/Keystore.json
+**/Config.json
+**/libSilkCodec.*
+**/SilkCodec.*
